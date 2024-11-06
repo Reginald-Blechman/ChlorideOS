@@ -1,0 +1,2 @@
+powercfg -setacvalueindex scheme_current sub_processor PERFEPP 0
+powercfg /setactive SCHEME_CURRENT

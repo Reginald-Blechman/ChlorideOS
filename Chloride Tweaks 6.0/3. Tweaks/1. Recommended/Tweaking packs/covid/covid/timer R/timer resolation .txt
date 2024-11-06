@@ -1,0 +1,4 @@
+C:\SetTimerResolution.exe --resolution 5000 --no-console
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel]
+"GlobalTimerResolutionRequests"=dword:00000001

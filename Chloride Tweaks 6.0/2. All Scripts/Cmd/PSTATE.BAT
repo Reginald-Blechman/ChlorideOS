@@ -1,0 +1,3 @@
+powercfg -setacvalueindex scheme_current sub_processor PERFAUTONOMOUS 1
+powercfg -setacvalueindex scheme_current sub_processor PERFAUTONOMOUSWINDOW 20000
+powercfg -setacvalueindex scheme_current sub_processor PERFCHECK 20

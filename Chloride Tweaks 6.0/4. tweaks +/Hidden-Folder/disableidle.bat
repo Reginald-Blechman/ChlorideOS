@@ -1,0 +1,1 @@
+powercfg /setacvalueindex scheme_current sub_processor IDLEDISABLE 1

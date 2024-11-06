@@ -1,0 +1,1 @@
+powercfg -import "C:\Users\Administrator\Desktop\Velocity's 15 Tweaks Pack\2. Power plan\Velocity's Powerplan.pow"

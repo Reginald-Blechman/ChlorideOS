@@ -1,0 +1,1 @@
+Choosing Higher options will use more cpu power

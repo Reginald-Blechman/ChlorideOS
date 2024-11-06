@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00                                                                                                                                                                                  www.youtube.com/AdamxYT
+
+; KenysPC Optimized
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DeliveryOptimization\Settings]
+"DownloadMode"=dword:00000000

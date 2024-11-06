@@ -1,0 +1,1 @@
+for /f %%i in ('reg query "HKLM\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}" /s /v "DriverDesc"^| findstr "HKEY AMD ATI"') do if /i "%%i" neq "DriverDesc" (set "REGPATH_AMD=%%i") else reg add "!REGPATH_AMD!" /v "KMD_EnableComputePreemption" /t REG_DWORD /d "0" /f 

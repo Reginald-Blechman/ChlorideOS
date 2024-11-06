@@ -1,0 +1,8 @@
+asy method
+Download the latest version of the script, and extract the .ZIP file to your desired location.
+Navigate to the Win11Debloat folder
+Double click the 'Run.bat' file to start the script. Note: If the console window immediately closes and nothing happens, try the advanced method below.
+Accept the Windows UAC prompt to run the script as administrator, this is required for the script to function.
+A new powershell window will now open, showing the Win11Debloat menu. Select either the default or custom mode to continue.
+Carefully read through and follow the on-screen instructions.
+After making the selected changes the Win11Debloat script will restart the Windows Explorer process to properly apply them. If Windows Explorer does not recover after running the script and your desktop stays black, don't worry. Just press Ctrl + Alt + Del and restart your PC.

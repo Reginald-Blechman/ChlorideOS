@@ -1,0 +1,1 @@
+bcdedit /set {current} numproc %NUMBER_OF_PROCESSORS% 

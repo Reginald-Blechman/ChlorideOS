@@ -1,0 +1,3 @@
+echo Disabling Hyper-V...
+dism.exe /Online /Disable-Feature:Microsoft-Hyper-V-All /Quiet /NoRestart
+echo Hyper-V disabled successfully.

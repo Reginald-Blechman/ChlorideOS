@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00                                                                                                                                                                                  www.youtube.com/AdamxYT
+
+;Disable OneDrive Sync
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OneDrive]
+"DisableFileSyncNGSC"=dword:00000001

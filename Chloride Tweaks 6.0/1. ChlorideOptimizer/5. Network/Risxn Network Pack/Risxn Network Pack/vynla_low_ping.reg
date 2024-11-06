@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Winsock]
+"UseDelayedAcceptance"=dword:00000000
+"MaxSockAddrLength"=dword:00000010
+"MinSockAddrLength"=dword:00000010

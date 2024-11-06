@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00                                                                                                                                                             Registry File By Adamx (youtube.com/AdamxYT)
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000028

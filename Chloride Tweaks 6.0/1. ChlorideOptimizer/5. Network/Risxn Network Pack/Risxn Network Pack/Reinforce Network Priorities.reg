@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00                                                                                                                                                                                  www.youtube.com/AdamxYT
+
+;Reinforce Network Priorities
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000004
+"HostsPriority"=dword:00000005
+"DnsPriority"=dword:00000006
+"NetbtPriority"=dword:00000007
