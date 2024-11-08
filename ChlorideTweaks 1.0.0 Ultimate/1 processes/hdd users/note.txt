@@ -1,0 +1,1 @@
+go use apply all and then come back here and enable sysmain if you have an hdd
