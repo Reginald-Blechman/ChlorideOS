@@ -2,7 +2,7 @@
 
 - Shitty fork of Atlas (Pre-playbook) with shit ton of random tweaking regedit and batch files. <br>
 
-## Latest Releases - 01/01/2024
+## Latest Releases - 01/01/2025
 
 - ChlorideOS 22H2 Superlite <br>
 https://qiwi.gg/file/iSEi8629-ChlorideOS1022h2SuperLight <br>
