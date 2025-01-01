@@ -7,8 +7,11 @@
 - ChlorideOS 22H2 Superlite <br>
 https://qiwi.gg/file/iSEi8629-ChlorideOS1022h2SuperLight <br>
 
-- ChlorideOS 11 Ultimate Superlite 24H2 <br>
-https://qiwi.gg/file/iSEi8629-ChlorideOS1022h2SuperLight <br>
+- ChlorideOS 10 Ultimate Superlite 24H2 <br>
+https://www.mediafire.com/file/r7ssdfg7vddif40/ChlorideOS+10+22h2+Ultimate+SuperLight.iso/file <br>
+
+- ChlorideOS 11 Ultimate Ultralite 24H2 <br>
+https://www.mediafire.com/file/l77cveri94sxdt9/ChlorideOS+11+24h2+Ultimate+SuperLight.iso/file <br>
 
 - Cnloride Toolbox <br>
 https://qiwi.gg/file/5eAB8791-ChlorideToolBox <br>
