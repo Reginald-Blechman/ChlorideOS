@@ -2,7 +2,18 @@
 
 - Shitty fork of Atlas (Pre-playbook) with shit ton of random tweaking regedit and batch files. <br>
 
-## ChlorideOS ISOs:
+## Latest Releases - 01/01/2024
+
+- ChlorideOS 22H2 Superlite <br>
+https://qiwi.gg/file/iSEi8629-ChlorideOS1022h2SuperLight <br>
+
+- ChlorideOS 11 Ultimate Superlite 24H2 <br>
+https://qiwi.gg/file/iSEi8629-ChlorideOS1022h2SuperLight <br>
+
+- Cnloride Toolbox <br>
+https://qiwi.gg/file/5eAB8791-ChlorideToolBox <br>
+
+## Old ISOs:
 
 - ChlorideOS 11 Ultimate - 23h2 <br>
 
