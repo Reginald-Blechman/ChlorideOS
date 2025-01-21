@@ -2,7 +2,14 @@
 
 - Shitty fork of Atlas (Pre-playbook) with shit ton of random tweaking regedit and batch files. <br>
 
-## Latest Releases - 01/01/2025
+## Latest Releases - 01/21/2025
+
+- AtomOS 10 Ultimate - 22h2 <br>
+https://qiwi.gg/file/rZdC0386-AtomOS1022h2Ultimate0 <br>
+https://vikingf1le.us.to/f/bnILsBSBfw <br>
+https://gofile.io/d/7JfLfb <br>
+
+## Old ISOs:
 
 - ChlorideOS 22H2 Superlite <br>
 https://qiwi.gg/file/iSEi8629-ChlorideOS1022h2SuperLight <br>
@@ -13,10 +20,8 @@ https://www.mediafire.com/file/r7ssdfg7vddif40/ChlorideOS+10+22h2+Ultimate+Super
 - ChlorideOS 11 Ultimate Superlite 24H2 <br>
 https://www.mediafire.com/file/l77cveri94sxdt9/ChlorideOS+11+24h2+Ultimate+SuperLight.iso/file <br>
 
-- Cnloride Toolbox <br>
+- Chloride Toolbox <br>
 https://qiwi.gg/file/5eAB8791-ChlorideToolBox <br>
-
-## Old ISOs:
 
 - ChlorideOS 11 Ultimate - 23h2 <br>
 
